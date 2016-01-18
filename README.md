@@ -42,17 +42,17 @@ In the Eclipse IDE follow these steps to setup and run the code:
 files
 	3. Add both JAR files as external JARs and select **OK**
 	
-		![jars](jars.png =600x455)
+		<img src="jars.png" width="600px" height="455px"/>
 3. Set the arguments in the project configuration
 	1. Click **Run** > **Run Configurations...**
 	2. Click the tab **Arguments**
 	3. In the box labeled **Program arguments:** enter the values for your Bluemix username, Bluemix password, and tenant ID (each on a separate line)
 	4. Click **Run**
 	
-		![config](run config.png =600x481)
+		<img src="run config.png" width="600px" height="481px">
 4. Check the output. It should look similar to this: 
 
-	![output](rsa output.png)
+	<img src="rsa output.png">
 	
 ===
 
